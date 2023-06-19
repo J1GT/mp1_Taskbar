@@ -1,5 +1,5 @@
 # mp1_Taskbar
-Powershell scripts to install mp1.exe to your Windows computer.
+Powershell script to install mp1.exe to your Windows computer.
 
 The firmware and mp1.exe were made by [freefee#5612](https://discordapp.com/users/859511106220982303)
 The mp1 exe is an AutoHotKey script converted to an exe.
