@@ -1,11 +1,14 @@
 # mp1_Taskbar
-Powershell scripts to install or uninstall mp1.exe to your Windows computer.
-The mp1.exe is an AutoHotKey script converted to an exe, it was created
-by [freefee#5612](https://discordapp.com/users/859511106220982303).
+Powershell scripts to install mp1.exe to your Windows computer.
 
-This made to work with a [Mecx Labs](https://mecxlabs.com/) mp1 macropad
-with a custom firmware [Link](https://discord.com/channels/1051985267331973120/1090013633251135600) by [freefee#5612](https://discordapp.com/users/859511106220982303)
+The firmware and mp1.exe were made by [freefee#5612](https://discordapp.com/users/859511106220982303)
+The mp1 exe is an AutoHotKey script converted to an exe.
 
+This made to work with a [Mecx Labs](https://mecxlabs.com/) mp1 macropad with a custom (firmware)[https://discord.com/channels/1051985267331973120/1090013633251135600)]
+
+Join the [Mecx Labs](https://mecxlabs.com/) [Discord Server](https://discord.gg/gTa6RygX)
+
+#===========================================
 
 Hey there, thanks for checking this out.
 
@@ -23,5 +26,4 @@ Feel free to message if you have any questions
 
 -[freefee#5612](https://discordapp.com/users/859511106220982303)
 
-
-Join the [Mecx Labs](https://mecxlabs.com/) [Discord Server](https://discord.gg/gTa6RygX)
+#===========================================
