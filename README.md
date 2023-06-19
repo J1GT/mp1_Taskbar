@@ -4,7 +4,7 @@ Powershell script to install mp1.exe to your Windows computer.
 The firmware and mp1.exe were made by [freefee#5612](https://discordapp.com/users/859511106220982303)
 The mp1 exe is an AutoHotKey script converted to an exe.
 
-This made to work with a [Mecx Labs](https://mecxlabs.com/) mp1 macropad with a custom (firmware)[https://discord.com/channels/1051985267331973120/1090013633251135600)]
+This made to work with a [Mecx Labs](https://mecxlabs.com/) mp1 macropad with a custom [firmware](https://discord.com/channels/1051985267331973120/1090013633251135600)
 
 Join the [Mecx Labs](https://mecxlabs.com/) [Discord Server](https://discord.gg/gTa6RygX)
 
